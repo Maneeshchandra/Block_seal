@@ -1,0 +1,9 @@
+// deployments/CertificateDeployment.json
+{
+  "contractName": "Certificate",
+  "deployedAt": "2023-09-25T10:00:00Z",
+  "network": "development",
+  "contractAddress": "0x1234567890abcdef...",
+  "transactionHash": "0xabcdef1234567890...",
+  "otherField": "otherValue"
+}
